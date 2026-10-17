@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RoomKeeper/1.0.0": {
+        "runtime": {
+          "RoomKeeper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoomKeeper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

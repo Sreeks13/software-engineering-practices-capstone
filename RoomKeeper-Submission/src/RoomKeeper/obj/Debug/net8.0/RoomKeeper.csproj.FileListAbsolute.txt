@@ -1,0 +1,14 @@
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\bin\Debug\net8.0\RoomKeeper.exe
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\bin\Debug\net8.0\RoomKeeper.deps.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\bin\Debug\net8.0\RoomKeeper.runtimeconfig.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\bin\Debug\net8.0\RoomKeeper.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\bin\Debug\net8.0\RoomKeeper.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\RoomKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\RoomKeeper.AssemblyInfoInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\RoomKeeper.AssemblyInfo.cs
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\RoomKeeper.csproj.CoreCompileInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\RoomKeeper.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\refint\RoomKeeper.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\RoomKeeper.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\RoomKeeper.genruntimeconfig.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\software-engineering-practices-capstone\RoomKeeper\src\RoomKeeper\obj\Debug\net8.0\ref\RoomKeeper.dll
