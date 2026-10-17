@@ -1,0 +1,9 @@
+# >>> eval8 (managed) >>>
+.vscode/
+# <<< eval8 (managed) <<<
+
+# >>> project guide (managed) >>>
+bin/
+obj/
+hotel_audit.log
+# <<< project guide (managed) <<<
